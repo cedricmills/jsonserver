@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "John",
+      "lastname": "Doe",
+      "email": "john@mail.com",
+      "age": 34,
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstname": "James",
+      "lastname": "Doe",
+      "email": "james@mail.com",
+      "age": 34,
+      "companyId": "2"
+    },
+    {
+      "id": "BNx_Rt5"
+    },
+    {
+      "firstname": "Cedric",
+      "lastname": "Mills",
+      "age": 56,
+      "email": "test@test.com",
+      "companyID": "1",
+      "id": "ALwyNfN"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Nice company"
+    },
+    {
+      "id": "1",
+      "name": "Google",
+      "description": "Nice company"
+    },
+    {
+      "id": "1",
+      "name": "Microsoft",
+      "description": "Nice company"
+    }
+  ]
+}
